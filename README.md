@@ -17,3 +17,5 @@
 * When all the Enemy tanks in a wave are defeated, the next wave starts, and the Enemy tanks respawn with different stats.
 * The Player's goal is to move around and dodge all Enemy tank bullets, to shoot bullets at Enemy tanks and destroy them, and to defeat as many waves as possible.
 * The user can play as many games as they like, and the highest number of waves defeated in each game of shoot-the-tanks will show on the home screen.
+* There is also a release of my game in the form of a builtin exe, where all the pictures and audio is built in to the exe, and the user just needs to download the exe and play.
+* I hope all players have as much fun playing my game, just as how much fun I had designing it. 😉
